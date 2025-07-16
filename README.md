@@ -1,16 +1,45 @@
-## Hi there 👋
+**🚀 Welcome to My GitHub Profile!**
 
-<!--
-**00Ajax00/00Ajax00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](./your-header-image-name.png)  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**👨‍💻 About Me**
+
+Hi, I'm Ajay! I'm a Cybersecurity Analyst and Data Analyst passionate about protecting digital assets and uncovering actionable insights from data. I specialize in threat detection, incident response, and data-driven decision-making.
+
+🌍 Based in [Your Location]
+💼 Currently working on [your current project or job]
+🌱 Learning [technologies or skills you're exploring]
+📫 Reach me at: [your email or website]
+⚡ Fun fact: [something unique about you, e.g., I play the guitar or love hiking]
+
+
+**🛠️ Tech Stack**
+
+
+**📊 GitHub Stats**
+
+  
+  
+  
+
+
+
+**🏆 Featured Projects**
+
+Project Name 1: [Brief description of the project, e.g., A web app for task management built with React and Node.js.]
+
+Project Name 2: [Brief description, e.g., A machine learning model for predicting stock prices using Python.]
+
+
+**🌐 Connect with Me**
+
+  
+    
+  
+📈 Profile Views
+
+
+
+  

@@ -8,12 +8,10 @@
 
 Hi, I'm Ajay! I'm a Cybersecurity Analyst and Data Analyst passionate about protecting digital assets and uncovering actionable insights from data. I specialize in threat detection, incident response, and data-driven decision-making.
 
-🌍 Based in [Your Location]
-💼 Currently working on [your current project or job]
-🌱 Learning [technologies or skills you're exploring]
-📫 Reach me at: [your email or website]
-⚡ Fun fact: [something unique about you, e.g., I play the guitar or love hiking]
-
+💼 Currently working on projects on cybersecurity
+🌱 Learning cybersecurity and pentesting 
+📫 Reach me at: ajayzx000@gmail.com
+🎯 Mission: Build public tools, help peers upskill early & automate boring dev stuff
 
 **🛠️ Tech Stack**
 
